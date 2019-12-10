@@ -189,15 +189,6 @@ a {
     margin: 30 auto;
 }
 
-.con .appdownload form {
-    width: 50%;
-    /*border: 1px solid #ddd;*/
-    height: 30px;
-    display: block;
-    margin: 10px auto 30px;
-    position: relative;
-}
-
 .foot {
     position: absolute;
     bottom: 10px;
